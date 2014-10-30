@@ -2,11 +2,11 @@
 <repos>
 	<repolist>
 		<repo>
-			<url>https://github.com/ticuth/topicos</url>
+			<url>https://raw.githubusercontent.com/ticuth/topicos/master/config.xml</url>
 			<name>Tópicos selectos</name>
 		</repo>
 		<repo>
-			<url>https://github.com/ticuth/estdat</url>
+			<url>https://raw.githubusercontent.com/ticuth/estdat/master/config.xml</url>
 			<name>Estructura de datos</name>
 		</repo>
 	</repolist>
