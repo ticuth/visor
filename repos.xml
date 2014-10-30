@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<repos>
+	<repolist>
+		<repo>
+			<url>https://github.com/ticuth/topicos</url>
+			<name>Tópicos selectos</name>
+		</repo>
+		<repo>
+			<url>https://github.com/ticuth/estdat</url>
+			<name>Estructura de datos</name>
+		</repo>
+	</repolist>
+</repos>
